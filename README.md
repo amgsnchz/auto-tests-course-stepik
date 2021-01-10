@@ -1,2 +1,2 @@
-# auto-tests-course
+# auto-tests-course (stepik)
 HW for the course
